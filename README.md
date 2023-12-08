@@ -1,5 +1,6 @@
-# Aozora-Note-Resources
+# Aozora-Noteskin-Graphics
 An .svg graphic repository for Aozora-Note, a noteskin suite designed primarily for Project Outfox.
+This repository only houses templates for the primary shapes used to make the noteskin.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
