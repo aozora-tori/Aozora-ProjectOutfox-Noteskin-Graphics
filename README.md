@@ -1,2 +1,2 @@
 # Aozora-Note-Resources
-.svg resources for Aozora-Note, a noteskin suite designed primarily for Project Outfox
+An .svg graphic repository for Aozora-Note, a noteskin suite designed primarily for Project Outfox.
