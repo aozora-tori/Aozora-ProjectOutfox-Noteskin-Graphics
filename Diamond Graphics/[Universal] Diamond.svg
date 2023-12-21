@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64.000003"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient1"
+       id="radialGradient2"
+       cx="32"
+       cy="51.677670"
+       fx="32"
+       fy="51.677670"
+       r="39.355339"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#linearGradient2"
+       id="radialGradient4"
+       cx="32"
+       cy="51.677670"
+       fx="32"
+       fy="51.677670"
+       r="39.355339"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="Shadow"
+     style="display:inline">
+    <path
+       style="fill:#000000;fill-opacity:0.25;stroke:none;stroke-width:0;stroke-miterlimit:2;stroke-dasharray:none"
+       d="M 36.242641,10.07969 53.92031,27.757359 a 6,6 90 0 1 0,8.485282 L 36.242641,53.92031 a 6,6 180 0 1 -8.485282,0 L 10.07969,36.242641 a 6,6 90 0 1 0,-8.485282 L 27.757359,10.07969 a 6,6 0 0 1 8.485282,0 z m -24.748738,24.748737 17.67767,17.67767 a 4,4 0 0 0 5.656854,0 l 17.67767,-17.67767 a 4,4 90 0 0 0,-5.656854 l -17.67767,-17.67767 a 4,4 0 0 0 -5.656854,0 l -17.67767,17.67767 a 4,4 90 0 0 0,5.656854 z"
+       id="Shadow Path" />
+  </g>
+  <g
+     id="Fill"
+     style="display:inline">
+    <path
+       style="display:inline;fill:url(#radialGradient2);stroke-width:0;stroke-miterlimit:2;stroke-dasharray:none"
+       d="m 34.828427,11.493903 17.67767,17.67767 a 4,4 90 0 1 0,5.656854 l -17.67767,17.67767 a 4,4 0 0 1 -5.656854,0 l -17.67767,-17.67767 a 4,4 90 0 1 0,-5.656854 l 17.67767,-17.67767 a 4,4 0 0 1 5.656854,0 z"
+       id="Fill Path" />
+  </g>
+  <g
+     id="Outline"
+     style="display:inline">
+    <path
+       style="fill:url(#radialGradient4);stroke-width:0;stroke-miterlimit:2;stroke-dasharray:none"
+       d="m 35.535534,10.786797 17.677669,17.677669 a 5,5 90 0 1 0,7.071068 L 35.535534,53.213203 a 5,5 0 0 1 -7.071068,0 L 10.786797,35.535534 a 5,5 90 0 1 0,-7.071068 L 28.464466,10.786797 a 5,5 0 0 1 7.071068,0 z M 12.908117,33.414214 30.585786,51.091883 a 2,2 0 0 0 2.828428,0 L 51.091883,33.414214 a 2,2 90 0 0 0,-2.828428 L 33.414214,12.908117 a 2,2 0 0 0 -2.828428,0 L 12.908117,30.585786 a 2,2 90 0 0 0,2.828428 z"
+       id="Outline Path" />
+  </g>
+</svg>
