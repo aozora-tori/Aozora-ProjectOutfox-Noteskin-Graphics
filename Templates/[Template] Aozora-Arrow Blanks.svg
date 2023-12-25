@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="[Template] Aozora-Arrow Blanks.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#808080"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#404040"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="2"
+     inkscape:cx="267.5"
+     inkscape:cy="137.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="64"
+       height="64"
+       id="page1"
+       margin="0"
+       bleed="0"
+       inkscape:label="Arrow Receptor" />
+    <inkscape:page
+       x="80"
+       y="0"
+       width="64"
+       height="64"
+       id="page2"
+       inkscape:label="Diamond Receptor" />
+    <inkscape:page
+       x="0"
+       y="80"
+       width="64"
+       height="64"
+       id="page3"
+       inkscape:label="Arrow Flash" />
+    <inkscape:page
+       x="80"
+       y="80"
+       width="64"
+       height="64"
+       id="page4"
+       inkscape:label="Diamond Flash" />
+    <inkscape:page
+       x="0"
+       y="160"
+       width="64"
+       height="64"
+       id="page5"
+       inkscape:label="Arrow Blue" />
+    <inkscape:page
+       x="80"
+       y="160"
+       width="64"
+       height="64"
+       id="page6"
+       inkscape:label="Diamond Blue" />
+    <inkscape:page
+       x="0"
+       y="240"
+       width="64"
+       height="64"
+       id="page7"
+       inkscape:label="Arrow White" />
+    <inkscape:page
+       x="80"
+       y="240"
+       width="64"
+       height="64"
+       id="page8"
+       margin="0"
+       bleed="0"
+       inkscape:label="Diamond White" />
+    <inkscape:page
+       x="0"
+       y="320"
+       width="64"
+       height="64"
+       id="page9"
+       inkscape:label="Arrow Hold Head" />
+    <inkscape:page
+       x="80"
+       y="320"
+       width="64"
+       height="64"
+       id="page10"
+       inkscape:label="Diamond Hold Head" />
+    <inkscape:page
+       x="0"
+       y="400"
+       width="64"
+       height="64"
+       id="page11"
+       inkscape:label="Arrow Roll Head" />
+    <inkscape:page
+       x="80"
+       y="400"
+       width="64"
+       height="64"
+       id="page12"
+       inkscape:label="Diamond Hold Head" />
+    <inkscape:page
+       x="0"
+       y="480"
+       width="64"
+       height="64"
+       id="page13"
+       inkscape:label="Arrow Lift / LiftCap" />
+    <inkscape:page
+       x="80"
+       y="480"
+       width="64"
+       height="64"
+       id="page14"
+       inkscape:label="Diamond Lift / LiftCap" />
+    <inkscape:page
+       x="160"
+       y="0"
+       width="64"
+       height="512"
+       id="page15"
+       margin="0"
+       bleed="0"
+       inkscape:label="Arrow Notes 1x8" />
+    <inkscape:page
+       x="240"
+       y="0"
+       width="64"
+       height="512"
+       id="page16"
+       margin="0"
+       bleed="0"
+       inkscape:label="Diamond Notes 1x8" />
+    <inkscape:page
+       x="320"
+       y="0"
+       width="64"
+       height="32"
+       id="page17"
+       inkscape:label="Hold Body Inactive" />
+    <inkscape:page
+       x="400"
+       y="0"
+       width="64"
+       height="32"
+       id="page18"
+       inkscape:label="Hold Body Active" />
+    <inkscape:page
+       x="320"
+       y="48"
+       width="64"
+       height="32"
+       id="page19"
+       inkscape:label="Hold BottomCap Inactive" />
+    <inkscape:page
+       x="400"
+       y="48"
+       width="64"
+       height="32"
+       id="page20"
+       inkscape:label="Hold BottomCap Active" />
+    <inkscape:page
+       x="320"
+       y="96"
+       width="64"
+       height="32"
+       id="page21"
+       inkscape:label="Left Hold TopCap Inactive" />
+    <inkscape:page
+       x="400"
+       y="96"
+       width="64"
+       height="32"
+       id="page22"
+       inkscape:label="Left Hold TopCap Active" />
+    <inkscape:page
+       x="320"
+       y="144"
+       width="64"
+       height="32"
+       id="page23"
+       inkscape:label="Down Hold TopCap Inactive" />
+    <inkscape:page
+       x="400"
+       y="144"
+       width="64"
+       height="32"
+       id="page24"
+       inkscape:label="Down Hold TopCap Active" />
+    <inkscape:page
+       x="320"
+       y="192"
+       width="64"
+       height="32"
+       id="page25"
+       inkscape:label="Up Hold TopCap Inactive" />
+    <inkscape:page
+       x="400"
+       y="192"
+       width="64"
+       height="32"
+       id="page26"
+       inkscape:label="Up Hold TopCap Active" />
+    <inkscape:page
+       x="320"
+       y="240"
+       width="64"
+       height="32"
+       id="page27"
+       inkscape:label="Right Hold TopCap Inactive" />
+    <inkscape:page
+       x="400"
+       y="240"
+       width="64"
+       height="32"
+       id="page28"
+       inkscape:label="Right Hold TopCap Active" />
+    <inkscape:page
+       x="320"
+       y="288"
+       width="64"
+       height="32"
+       id="page29"
+       inkscape:label="DownLeft Hold TopCap Inactive" />
+    <inkscape:page
+       x="400"
+       y="288"
+       width="64"
+       height="32"
+       id="page30"
+       inkscape:label="DownLeft Hold TopCap Active" />
+    <inkscape:page
+       x="320"
+       y="336"
+       width="64"
+       height="32"
+       id="page31"
+       inkscape:label="UpLeft Hold TopCap Inactive" />
+    <inkscape:page
+       x="400"
+       y="336"
+       width="64"
+       height="32"
+       id="page32"
+       inkscape:label="UpLeft Hold TopCap Active" />
+    <inkscape:page
+       x="320"
+       y="384"
+       width="64"
+       height="32"
+       id="page33"
+       margin="0"
+       bleed="0"
+       inkscape:label="UpRight Hold TopCap Inactive" />
+    <inkscape:page
+       x="400"
+       y="384"
+       width="64"
+       height="32"
+       id="page34"
+       margin="0"
+       bleed="0"
+       inkscape:label="UpRight Hold TopCap Active" />
+    <inkscape:page
+       x="320"
+       y="432"
+       width="64"
+       height="32"
+       id="page35"
+       margin="0"
+       bleed="0"
+       inkscape:label="DownRight Hold TopCap Inactive" />
+    <inkscape:page
+       x="400"
+       y="432"
+       width="64"
+       height="32"
+       id="page36"
+       margin="0"
+       bleed="0"
+       inkscape:label="DownRight Hold TopCap Active" />
+    <inkscape:page
+       x="480"
+       y="0"
+       width="64"
+       height="32"
+       id="page37"
+       margin="0"
+       bleed="0"
+       inkscape:label="Roll Body Inactive" />
+    <inkscape:page
+       x="560"
+       y="0"
+       width="64"
+       height="32"
+       id="page38"
+       margin="0"
+       bleed="0"
+       inkscape:label="Roll Body Active" />
+    <inkscape:page
+       x="480"
+       y="48"
+       width="64"
+       height="32"
+       id="page39"
+       margin="0"
+       bleed="0"
+       inkscape:label="Roll BottomCap Inactive" />
+    <inkscape:page
+       x="560"
+       y="48"
+       width="64"
+       height="32"
+       id="page40"
+       margin="0"
+       bleed="0"
+       inkscape:label="Roll BottomCap Active" />
+    <inkscape:page
+       x="480"
+       y="96"
+       width="64"
+       height="32"
+       id="page41"
+       margin="0"
+       bleed="0"
+       inkscape:label="Left Roll TopCap Inactive" />
+    <inkscape:page
+       x="560"
+       y="96"
+       width="64"
+       height="32"
+       id="page42"
+       margin="0"
+       bleed="0"
+       inkscape:label="Left Roll TopCap Active" />
+    <inkscape:page
+       x="480"
+       y="144"
+       width="64"
+       height="32"
+       id="page43"
+       margin="0"
+       bleed="0"
+       inkscape:label="Down Roll TopCap Inactive" />
+    <inkscape:page
+       x="560"
+       y="144"
+       width="64"
+       height="32"
+       id="page44"
+       margin="0"
+       bleed="0"
+       inkscape:label="Down Roll TopCap Active" />
+    <inkscape:page
+       x="480"
+       y="192"
+       width="64"
+       height="32"
+       id="page45"
+       margin="0"
+       bleed="0"
+       inkscape:label="Up Roll TopCap Inactive" />
+    <inkscape:page
+       x="560"
+       y="192"
+       width="64"
+       height="32"
+       id="page46"
+       margin="0"
+       bleed="0"
+       inkscape:label="Up Roll TopCap Active" />
+    <inkscape:page
+       x="480"
+       y="240"
+       width="64"
+       height="32"
+       id="page47"
+       margin="0"
+       bleed="0"
+       inkscape:label="Right Roll TopCap Inactive" />
+    <inkscape:page
+       x="560"
+       y="240"
+       width="64"
+       height="32"
+       id="page48"
+       margin="0"
+       bleed="0"
+       inkscape:label="Right Roll TopCap Active" />
+    <inkscape:page
+       x="480"
+       y="288"
+       width="64"
+       height="32"
+       id="page49"
+       inkscape:label="DownLeft Roll TopCap Inactive"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="560"
+       y="288"
+       width="64"
+       height="32"
+       id="page50"
+       inkscape:label="DownLeft Roll TopCap Active"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="480"
+       y="336"
+       width="64"
+       height="32"
+       id="page51"
+       inkscape:label="UpLeft Roll TopCap Inactive"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="560"
+       y="336"
+       width="64"
+       height="32"
+       id="page52"
+       inkscape:label="UpLeft Roll TopCap Active"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="480"
+       y="384"
+       width="64"
+       height="32"
+       id="page53"
+       inkscape:label="UpRight Roll TopCap Inactive"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="560"
+       y="384"
+       width="64"
+       height="32"
+       id="page54"
+       inkscape:label="UpRight Roll TopCap Active"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="480"
+       y="432"
+       width="64"
+       height="32"
+       id="page55"
+       inkscape:label="DownRight Roll TopCap Inactive"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="560"
+       y="432"
+       width="64"
+       height="32"
+       id="page56"
+       inkscape:label="DownRight Roll TopCap Active"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="640"
+       y="0"
+       width="64"
+       height="64"
+       id="page57"
+       inkscape:label="Tap Mine" />
+    <inkscape:page
+       x="640"
+       y="80"
+       width="64"
+       height="32"
+       id="page58"
+       inkscape:label="Mine Body" />
+    <inkscape:page
+       x="640"
+       y="128"
+       width="64"
+       height="32"
+       id="page59"
+       inkscape:label="Mine BottomCap" />
+    <inkscape:page
+       x="640"
+       y="176"
+       width="64"
+       height="32"
+       id="page60"
+       inkscape:label="Mine TopCap" />
+    <inkscape:page
+       x="720"
+       y="0"
+       width="72"
+       height="72"
+       id="page61"
+       margin="0"
+       bleed="0"
+       inkscape:label="Arrow Tap Explosion Dim" />
+    <inkscape:page
+       x="720"
+       y="88"
+       width="64"
+       height="64"
+       id="page62"
+       inkscape:label="Diamond Tap Explosion Dim" />
+    <inkscape:page
+       x="720"
+       y="168"
+       width="72"
+       height="72"
+       id="page63"
+       inkscape:label="Tap Explosion Rays" />
+    <inkscape:page
+       x="720"
+       y="256"
+       width="64"
+       height="64"
+       id="page64"
+       inkscape:label="HitMine Explosion" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+</svg>
