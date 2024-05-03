@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="[Inkscape 1.2+] Upper Ordinal Topcap.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#808080"
+     inkscape:document-units="px"
+     inkscape:zoom="15.077961"
+     inkscape:cx="27.589937"
+     inkscape:cy="31.171323"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Topcap Group"
+     showgrid="false"
+     showguides="false">
+    <inkscape:grid
+       id="Main Grid"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+    <sodipodi:guide
+       position="32,32"
+       orientation="0,-1"
+       id="[Main] X"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32,32"
+       orientation="1,0"
+       id="[Main] Y"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32,54.67766952966"
+       orientation="0,1"
+       id="[U] Outline"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="54.67766952966,32"
+       orientation="1,0"
+       id="[R] Outline"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32,9.32233047034"
+       orientation="0,-1"
+       id="[D] Outline"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.32233047034,32"
+       orientation="-1,0"
+       id="[L] Outline"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32,53.67766952966"
+       orientation="0,1"
+       id="[U] Fill"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="53.67766952966,32"
+       orientation="1,0"
+       id="[R] FIll"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32,10.32233047034"
+       orientation="0,-1"
+       id="[D] Fill"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="10.32233047034,32"
+       orientation="1,0"
+       id="[L] Fill"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32,51.67766952966"
+       orientation="0,-1"
+       id="[U] Inner"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="51.67766952966,32"
+       orientation="1,0"
+       id="[R] Inner"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32,12.32233047034"
+       orientation="0,-1"
+       id="[D] Inner"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.32233047034,32"
+       orientation="1,0"
+       id="[L] Inner"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always"
+       inkscape:label="Fill Gradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#bebebe;stop-opacity:0.49803922;"
+         offset="0.5"
+         id="stop3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,3,0,1 @ F,0,0,1,0,3,0,1 @ F,0,0,1,0,3,0,1 @ F,0,0,1,0,3,0,1"
+       radius="3"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="false"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 | F,0,1,1,0,2,0,1 @ F,0,1,1,0,2,0,1 @ F,0,1,1,0,2,0,1 @ F,0,1,1,0,2,0,1"
+       radius="2"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="false"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="12.32233047034"
+       y1="32"
+       x2="51.67766952966"
+       y2="32"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="Topcap Template"
+     inkscape:highlight-color="#47a4d7"
+     inkscape:label="Topcap Template">
+    <g
+       id="Topcap Group"
+       inkscape:label="Topcap Group">
+      <path
+         style="fill:url(#linearGradient2);fill-opacity:1;stroke-width:0;paint-order:stroke fill markers;stroke-dasharray:none"
+         d="m 53.67767,13.32233 v 37.35534 a 3,3 135 0 1 -3,3 H 13.32233 a 3,3 45 0 1 -3,-3 V 13.32233 a 3,3 135 0 1 3,-3 h 37.35534 a 3,3 45 0 1 3,3 z"
+         id="Fill"
+         inkscape:path-effect="#path-effect2"
+         inkscape:original-d="M 53.67767,10.32233 V 53.67767 H 10.32233 V 10.32233 Z"
+         inkscape:label="Fill Path" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke-width:0;paint-order:stroke fill markers;stroke-dasharray:none"
+         d="M 54.67767,14.322331 V 49.67767 a 5,5 135 0 1 -5,5 H 14.322331 a 5,5 45 0 1 -5.0000005,-5 V 14.322331 A 5,5 135 0 1 14.322331,9.3223305 H 49.67767 a 5,5 45 0 1 5,5.0000005 z m -42.35534,-1e-6 0,35.35534 a 2,2 45 0 0 2,2 h 35.35534 a 2,2 135 0 0 2,-2 V 14.32233 a 2,2 45 0 0 -2,-2 l -35.35534,0 a 2,2 135 0 0 -2,2 z"
+         id="Outline"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:path-effect="#path-effect1"
+         inkscape:original-d="M 54.67767,9.3223305 V 54.67767 H 9.3223305 V 9.3223305 Z M 12.32233,12.32233 V 51.67767 H 51.67767 V 12.32233 Z"
+         inkscape:label="Outline Path" />
+    </g>
+  </g>
+</svg>

@@ -25,15 +25,15 @@
      inkscape:deskcolor="#808080"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="11.313709"
-     inkscape:cx="26.339726"
-     inkscape:cy="32.350134"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="36.312498"
+     inkscape:cy="39.874998"
      inkscape:window-width="1920"
      inkscape:window-height="986"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Outline"
+     inkscape:current-layer="Arrow Group"
      showguides="false"
      inkscape:lockguides="true">
     <inkscape:grid
@@ -225,6 +225,32 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always"
+       inkscape:label="Outline Gradient">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always"
+       inkscape:label="Fill Gradient">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect3"
@@ -276,32 +302,6 @@
        apply_with_radius="true"
        only_selected="true"
        hide_knots="true" />
-    <linearGradient
-       id="linearGradient2"
-       inkscape:collect="always"
-       inkscape:label="Outline Gradient">
-      <stop
-         style="stop-color:#808080;stop-opacity:1;"
-         offset="0"
-         id="stop3" />
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="1"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient1"
-       inkscape:collect="always"
-       inkscape:label="Fill Gradient">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop1" />
-      <stop
-         style="stop-color:#808080;stop-opacity:1;"
-         offset="1"
-         id="stop2" />
-    </linearGradient>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1"
@@ -324,47 +324,37 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
-     inkscape:label="Shadow"
      inkscape:groupmode="layer"
-     id="Shadow"
-     inkscape:highlight-color="#808080"
-     style="display:inline">
-    <path
-       style="display:inline;fill:#000000;fill-opacity:0.25;stroke-width:16;stroke-miterlimit:2"
-       d="m 36.242641,2.7573593 4,4 A 6.0000001,6.0000001 67.5 0 1 42,11 v 16.20101 l 5.100505,-5.100505 a 6,6 0 0 1 8.485281,0 l 5.656855,5.656854 a 6,6 90 0 1 0,8.485282 l -25,25 a 6,6 180 0 1 -8.485282,0 l -24.9999997,-25 a 6,6 90 0 1 0,-8.485282 l 5.6568543,-5.656854 a 6,6 0 0 1 8.4852814,0 L 22,27.20101 V 11 a 6.0000001,6.0000001 112.5 0 1 1.757359,-4.2426407 l 4,-4 a 6,6 0 0 1 8.485282,0 z M 24,11 v 21.029437 l -8.514719,-8.514718 a 4,4 180 0 0 -5.6568539,0 l -5.6568542,5.656854 a 4,4 90 0 0 0,5.656854 l 25.0000001,25 a 4,4 0 0 0 5.656854,0 l 25,-25 a 4,4 90 0 0 0,-5.656854 l -5.656854,-5.656854 a 4,4 0 0 0 -5.656854,0 L 40,32.029437 V 11 A 3.9999999,3.9999999 67.5 0 0 38.828427,8.1715729 l -4,-4 a 4,4 0 0 0 -5.656854,0 l -4,4 A 3.9999999,3.9999999 112.5 0 0 24,11 Z"
-       id="Shadow Path"
-       sodipodi:nodetypes="cccccccccccccccccccccc"
-       inkscape:label="Shadow Path"
-       inkscape:path-effect="#path-effect1"
-       inkscape:original-d="m 32,-1.48528137424 10,10 V 27.20101012678 L 51.34314575051,17.85786437627 65.48528137424,32 32,65.48528137424 -1.48528137424,32 12.65685424949,17.85786437627 22,27.20101012678 V 8.51471862576 Z M 24,9.34314575051 V 32.02943725152 L 12.65685424949,20.68629150102 1.34314575051,32 32,62.65685424949 62.65685424949,32 51.34314575051,20.68629150102 40,32.02943725152 V 9.34314575051 l -8,-8 z" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="Fill"
-     inkscape:label="Fill"
+     id="Arrow Template"
      inkscape:highlight-color="#47a4d7"
-     style="display:inline">
-    <path
-       style="fill:url(#radialGradient2);fill-opacity:1;stroke-width:16;stroke-miterlimit:2"
-       d="m 34.828427,4.1715729 4,4 A 3.9999999,3.9999999 67.5 0 1 40,11 v 21.029437 l 8.514719,-8.514718 a 4,4 0 0 1 5.656854,0 l 5.656854,5.656854 a 4,4 90 0 1 0,5.656854 l -25,25 a 4,4 180 0 1 -5.656854,0 l -25.0000001,-25 a 4,4 90 0 1 0,-5.656854 l 5.6568542,-5.656854 a 4,4 180 0 1 5.6568539,0 L 24,32.029437 V 11 a 3.9999999,3.9999999 112.5 0 1 1.171573,-2.8284271 l 4,-4 a 4,4 0 0 1 5.656854,0 z"
-       id="Fill Path"
-       inkscape:label="Fill Path"
-       inkscape:path-effect="#path-effect2"
-       inkscape:original-d="m 32,1.34314575051 8,8 V 32.02943725152 L 51.34314575051,20.68629150102 62.65685424949,32 32,62.65685424949 1.34314575051,32 12.65685424949,20.68629150102 24,32.02943725152 V 9.34314575051 Z" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="Outline"
-     inkscape:label="Outline"
-     inkscape:highlight-color="#ffffff"
-     style="display:inline">
-    <path
-       style="display:inline;fill:url(#radialGradient4);fill-opacity:1;stroke-width:16;stroke-miterlimit:2"
-       d="m 35.535534,3.4644661 4,4 A 5,5 67.5 0 1 41,11 l 0,18.615224 6.807612,-6.807612 a 5,5 180 0 1 7.071068,0 l 5.656854,5.656854 a 5,5 90 0 1 0,7.071068 l -25,25 a 5,5 0 0 1 -7.071068,0 l -24.9999999,-25 a 5,5 90 0 1 0,-7.071068 l 5.6568542,-5.656854 a 5,5 0 0 1 7.0710677,0 L 23,29.615224 V 11 a 5,5 112.5 0 1 1.464466,-3.5355339 l 4,-4 a 5,5 0 0 1 7.071068,0 z M 26,11 V 36.857864 L 14.071068,24.928932 a 2,2 0 0 0 -2.828427,0 l -5.6568546,5.656854 a 2,2 90 0 0 0,2.828428 l 24.9999996,25 a 2,2 0 0 0 2.828428,0 l 25,-25 a 2,2 90 0 0 0,-2.828428 l -5.656855,-5.656854 a 2,2 0 0 0 -2.828427,0 L 38,36.857864 V 11 A 2,2 67.5 0 0 37.414214,9.5857864 l -4,-4 a 2,2 0 0 0 -2.828428,0 l -4,4 A 2,2 112.5 0 0 26,11 Z"
-       id="Outline Path"
-       sodipodi:nodetypes="cccccccccccccccccccccc"
-       inkscape:label="Outline Path"
-       inkscape:path-effect="#path-effect3"
-       inkscape:original-d="M 32,-0.07106781187 41,8.92893218813 V 29.61522368915 L 51.34314575051,19.27207793864 64.07106781187,32 32,64.07106781187 -0.07106781187,32 12.65685424949,19.27207793864 23,29.61522368915 V 8.92893218813 Z M 26,10.17157287525 V 36.85786437627 L 12.65685424949,23.51471862576 4.17157287525,32 32,59.82842712475 59.82842712475,32 51.34314575051,23.51471862576 38,36.85786437627 V 10.17157287525 L 32,4.17157287525 Z" />
+     style="display:inline"
+     inkscape:label="Arrow Template">
+    <g
+       id="Arrow Group"
+       inkscape:label="Arrow Group">
+      <path
+         style="display:inline;fill:#000000;fill-opacity:0.25;stroke-width:0;stroke-miterlimit:2;stroke-dasharray:none"
+         d="m 36.242641,2.7573593 4,4 A 6.0000001,6.0000001 67.5 0 1 42,11 v 16.20101 l 5.100505,-5.100505 a 6,6 0 0 1 8.485281,0 l 5.656855,5.656854 a 6,6 90 0 1 0,8.485282 l -25,25 a 6,6 180 0 1 -8.485282,0 l -24.9999997,-25 a 6,6 90 0 1 0,-8.485282 l 5.6568543,-5.656854 a 6,6 0 0 1 8.4852814,0 L 22,27.20101 V 11 a 6.0000001,6.0000001 112.5 0 1 1.757359,-4.2426407 l 4,-4 a 6,6 0 0 1 8.485282,0 z M 24,11 v 21.029437 l -8.514719,-8.514718 a 4,4 180 0 0 -5.6568539,0 l -5.6568542,5.656854 a 4,4 90 0 0 0,5.656854 l 25.0000001,25 a 4,4 0 0 0 5.656854,0 l 25,-25 a 4,4 90 0 0 0,-5.656854 l -5.656854,-5.656854 a 4,4 0 0 0 -5.656854,0 L 40,32.029437 V 11 A 3.9999999,3.9999999 67.5 0 0 38.828427,8.1715729 l -4,-4 a 4,4 0 0 0 -5.656854,0 l -4,4 A 3.9999999,3.9999999 112.5 0 0 24,11 Z"
+         id="Shadow Path"
+         sodipodi:nodetypes="cccccccccccccccccccccc"
+         inkscape:path-effect="#path-effect1"
+         inkscape:original-d="m 32,-1.48528137424 10,10 V 27.20101012678 L 51.34314575051,17.85786437627 65.48528137424,32 32,65.48528137424 -1.48528137424,32 12.65685424949,17.85786437627 22,27.20101012678 V 8.51471862576 Z M 24,9.34314575051 V 32.02943725152 L 12.65685424949,20.68629150102 1.34314575051,32 32,62.65685424949 62.65685424949,32 51.34314575051,20.68629150102 40,32.02943725152 V 9.34314575051 l -8,-8 z"
+         inkscape:label="Shadow Path" />
+      <path
+         style="display:inline;fill:url(#radialGradient2);fill-opacity:1;stroke-width:16;stroke-miterlimit:2"
+         d="m 34.828427,4.1715729 4,4 A 3.9999999,3.9999999 67.5 0 1 40,11 v 21.029437 l 8.514719,-8.514718 a 4,4 0 0 1 5.656854,0 l 5.656854,5.656854 a 4,4 90 0 1 0,5.656854 l -25,25 a 4,4 180 0 1 -5.656854,0 l -25.0000001,-25 a 4,4 90 0 1 0,-5.656854 l 5.6568542,-5.656854 a 4,4 180 0 1 5.6568539,0 L 24,32.029437 V 11 a 3.9999999,3.9999999 112.5 0 1 1.171573,-2.8284271 l 4,-4 a 4,4 0 0 1 5.656854,0 z"
+         id="Fill Path"
+         inkscape:path-effect="#path-effect2"
+         inkscape:original-d="m 32,1.34314575051 8,8 V 32.02943725152 L 51.34314575051,20.68629150102 62.65685424949,32 32,62.65685424949 1.34314575051,32 12.65685424949,20.68629150102 24,32.02943725152 V 9.34314575051 Z"
+         inkscape:label="Fill Path" />
+      <path
+         style="display:inline;fill:url(#radialGradient4);fill-opacity:1;stroke-width:16;stroke-miterlimit:2"
+         d="m 35.535534,3.4644661 4,4 A 5,5 67.5 0 1 41,11 l 0,18.615224 6.807612,-6.807612 a 5,5 180 0 1 7.071068,0 l 5.656854,5.656854 a 5,5 90 0 1 0,7.071068 l -25,25 a 5,5 0 0 1 -7.071068,0 l -24.9999999,-25 a 5,5 90 0 1 0,-7.071068 l 5.6568542,-5.656854 a 5,5 0 0 1 7.0710677,0 L 23,29.615224 V 11 a 5,5 112.5 0 1 1.464466,-3.5355339 l 4,-4 a 5,5 0 0 1 7.071068,0 z M 26,11 V 36.857864 L 14.071068,24.928932 a 2,2 0 0 0 -2.828427,0 l -5.6568546,5.656854 a 2,2 90 0 0 0,2.828428 l 24.9999996,25 a 2,2 0 0 0 2.828428,0 l 25,-25 a 2,2 90 0 0 0,-2.828428 l -5.656855,-5.656854 a 2,2 0 0 0 -2.828427,0 L 38,36.857864 V 11 A 2,2 67.5 0 0 37.414214,9.5857864 l -4,-4 a 2,2 0 0 0 -2.828428,0 l -4,4 A 2,2 112.5 0 0 26,11 Z"
+         id="Outline Path"
+         sodipodi:nodetypes="cccccccccccccccccccccc"
+         inkscape:path-effect="#path-effect3"
+         inkscape:original-d="M 32,-0.07106781187 41,8.92893218813 V 29.61522368915 L 51.34314575051,19.27207793864 64.07106781187,32 32,64.07106781187 -0.07106781187,32 12.65685424949,19.27207793864 23,29.61522368915 V 8.92893218813 Z M 26,10.17157287525 V 36.85786437627 L 12.65685424949,23.51471862576 4.17157287525,32 32,59.82842712475 59.82842712475,32 51.34314575051,23.51471862576 38,36.85786437627 V 10.17157287525 L 32,4.17157287525 Z"
+         inkscape:label="Outline Path" />
+    </g>
   </g>
 </svg>
