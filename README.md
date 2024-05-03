@@ -2,6 +2,8 @@
 An .svg graphic repository for Aozora-Note, a noteskin suite designed primarily for Project Outfox.
 This repository only houses preview templates for the primary shapes used to make the noteskin.
 
+Inkscape is **HIGHLY** recommended for editing these files (specifically versions 1.2 and above as they support multiple pages.)
+
 Please attribute when making works based on these graphics.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
